@@ -69,9 +69,5 @@ Top 5 strongest predictors:
 
 ---
 
-## 🚀 Next Steps
-- Try more models (Random Forest, XGBoost).  
-- Apply SMOTE or resampling for class imbalance.  
-- Deploy with Streamlit/Flask for interactive demo.
 
 ---
